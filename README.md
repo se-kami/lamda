@@ -1,9 +1,11 @@
 # LAMDA: Label Matching Deep Domain Adaptation
 This repository contains (un)official PyTorch implementation of the LAMDA paper.
 
-![LAMDA Architecture](images/architecture.png)
+## Architecture
+![LAMDA Architecture](images/architecture.png | width=100)
 
-![T-SNE visualization of embeddings](images/embeddings.png)
+## Embeddings
+![T-SNE visualization of embeddings](images/embeddings.png | width=100)
 
 ## Setup
 ### Install dependencies.
