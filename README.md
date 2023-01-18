@@ -2,10 +2,14 @@
 This repository contains (un)official PyTorch implementation of the LAMDA paper.
 
 ## Architecture
-![LAMDA Architecture](https://github.com/se-kami/lamda/blob/master/images/architecture.png | width=100px)
+<p align="center">
+  <img src="images/architecture.png" width="400"/>
+</p>
 
 ## Embeddings
-![T-SNE visualization of embeddings](https://github.com/se-kami/lamda/blob/master/images/embeddings.png | width=100px)
+<p align="center">
+  <img src="images/embeddings.png" width="400"/>
+</p>
 
 ## Setup
 ### Install dependencies.
