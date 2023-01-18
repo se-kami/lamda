@@ -6,7 +6,7 @@ This repository contains (un)official PyTorch implementation of the LAMDA paper.
   <img src="images/architecture.png" width="400"/>
 </p>
 
-## Embeddings
+## Embeddings for Office-31
 <p align="center">
   <img src="images/embeddings.png" width="400"/>
 </p>
